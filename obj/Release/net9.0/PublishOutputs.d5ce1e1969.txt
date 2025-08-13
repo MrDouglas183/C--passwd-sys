@@ -1,0 +1,5 @@
+C:\Users\35950\Documents\Projects\2\bin\Release\net9.0\publish\2.exe
+C:\Users\35950\Documents\Projects\2\bin\Release\net9.0\publish\2.dll
+C:\Users\35950\Documents\Projects\2\bin\Release\net9.0\publish\2.deps.json
+C:\Users\35950\Documents\Projects\2\bin\Release\net9.0\publish\2.runtimeconfig.json
+C:\Users\35950\Documents\Projects\2\bin\Release\net9.0\publish\2.pdb
